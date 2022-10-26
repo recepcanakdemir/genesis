@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey jude
+=======
+helloworlddddd
+>>>>>>> refs/remotes/origin/main
